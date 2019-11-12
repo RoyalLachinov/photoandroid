@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">Photo Task</string>
     <string name="action_settings">Settings</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="username">Username:</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone No:</string>
+    <string name="website">Website:</string>
+    <string name="companyname">Company Name:</string>
+    <string name="companyphrase">Company Catch Phrase:</string>
+    <string name="button_users">Click to View Albums</string>
+    <string name="button_albums">Click to View Photos</string>
+    <string name="albums_title">Album Name:</string>
+    <string name="albums">Albums</string>
+    <string name="photo_title">Photo Title</string>
+    <string name="photo">Photos</string>
 </resources>
